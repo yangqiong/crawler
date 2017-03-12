@@ -1,0 +1,601 @@
+杭州|Hangzhou|hangzhou14
+上海|Shanghai|shanghai2
+成都|Chengdu|chengdu104
+东京|Tokyo|tokyo294
+厦门|Xiamen|xiamen21
+台北|Taipei City|taipeicity360
+香港|Hong Kong|hongkong38
+巴厘岛|Bali|bali438
+北京|Beijing|beijing1
+苏州|Suzhou|suzhou11
+济州岛|Jeju Island|jejuisland297
+首尔|Seoul|seoul234
+新加坡|Singapore|singapore53
+南京|Nanjing|nanjing9
+清迈|Chiang Mai|chiangmai209
+普吉岛|Phuket|phuket364
+丽江|Lijiang|lijiang32
+重庆|Chongqing|chongqing158
+曼谷|Bangkok|bangkok191
+迪拜|Dubai|dubai1062
+武汉|Wuhan|wuhan145
+昆明|Kunming|kunming29
+广州|Guangzhou|guangzhou152
+天津|Tianjin|tianjin154
+深圳|Shenzhen|shenzhen26
+澳门|Macau|macau39
+无锡|Wuxi|wuxi10
+大理|Dali|dali31
+大阪|Osaka|osaka293
+大连|Dalian|dalian4
+长沙|Changsha|changsha148
+苏梅岛|Koh Samui|kohsamui566
+京都|Kyoto|kyoto430
+宁波|Ningbo|ningbo83
+沈阳|Shenyang|shenyang155
+桂林|Guilin|guilin28
+西安|Xian|xian7
+西双版纳|Xishuangbanna|xishuangbanna30
+长滩岛|Boracay|boracay610
+哈尔滨|Harbin|haerbin151
+张家界|Zhangjiajie|zhangjiajie23
+拉萨|Lhasa|lhasa36
+高雄|gaoxiong|gaoxiong756
+三亚|Sanya|sanya61
+吉隆坡|Kuala Lumpur|kualalumpur45
+芭提雅|Pattaya|pattaya208
+扬州|Yangzhou|yangzhou12
+青岛|Qingdao|qingdao5
+花莲|Hualien|hualien1366
+香格里拉|Xianggelila|xianggelila106
+凤凰|Fenghuang|fenghuang988
+北海|Beihai|beihai140
+绍兴|Shaoxing|shaoxing18
+暹粒|Siem Reap|siemreap599
+垦丁|Kenting|kenting1380
+南宁|Nanning|nanning166
+贵阳|Guiyang|guiyang33
+阿坝|Aba|aba744
+福州|Fuzhou|fuzhou164
+西宁|Xining|xining237
+芽庄|Nha Trang|nhatrang670
+阳朔|Yangshuo|yangshuo702
+湘西|Xiangxi|xiangxi496
+秦皇岛|Qinhuangdao|qinhuangdao132
+长春|Changchun|changchun216
+九寨沟|Jiuzhaigou|jiuzhaigou25
+奈良|Nara|nara1045
+兰卡威|Langkawi|langkawi539
+胡志明市|Ho Chi Minh City|hochiminhcity434
+威海|Weihai|weihai169
+济南|Jinan|jinan128
+珠海|Zhuhai|zhuhai27
+峨眉山|Emeishan|emeishan24
+海口|Haikou|haikou37
+武夷山|Wuyishan|wuyishan22
+加德满都|Kathmandu|kathmandu482
+甲米|Krabi|krabi616
+舟山|Zhoushan|zhoushan479
+太原|Taiyuan|taiyuan167
+皮皮岛|Ko Phi Phi Don|kophiphidon565
+岘港|Da Nang|danang669
+郑州|Zhengzhou|zhengzhou157
+银川|Yinchuan|yinchuan239
+嘉兴|Jiaxing|jiaxing272
+乐山|Leshan|leshan103
+科伦坡|Colombo|colombo753
+平遥|Pingyao|pingyao365
+黄山市|Huangshan|huangshan120061
+烟台|Yantai|yantai170
+承德|Chengde|chengde135
+马尼拉|Manila|manila367
+金边|Phnom Penh|phnompenh489
+神户|Kobe|kobe57024
+河内|Hanoi|hanoi181
+乌鲁木齐|Urumqi|urumqi117
+薄荷岛|Bohol Island|boholisland1166
+稻城|Daocheng|daocheng342
+札幌|Sapporo|sapporo1878
+常州|Changzhou|changzhou206
+林芝|Linzhi|linzhi126
+巴黎|Paris|paris308
+伦敦|London|london309
+罗马|Rome|rome303
+威尼斯|Venice|venice340
+米兰|Milan|milan304
+莫斯科|Moscow|moscow358
+布拉格|Prague|prague822
+伊斯坦布尔|Istanbul|istanbul258
+马德里|Madrid|madrid378
+佛罗伦萨|Florence|florence341
+雅典|Athens|athens382
+慕尼黑|Munich|munich572
+阿姆斯特丹|Amsterdam|amsterdam299
+圣彼得堡|St. Petersburg|stpetersburg359
+柏林|Berlin|berlin306
+圣托里尼|Santorini|santorini1998
+巴塞罗那|Barcelona|barcelona381
+维也纳|Vienna|vienna439
+普罗旺斯|Provence|provence750
+里斯本|Lisbon|lisbon574
+法兰克福|Frankfurt|frankfurt305
+托斯卡纳|Tuscany|tuscany21198
+苏黎世|Zurich|zurich301
+巴伐利亚|Bavaria|bavaria21706
+剑桥|Cambridge|cambridge721
+尼斯|Nice|nice580
+琉森|Lucerne|lucerne644
+安达卢西亚|Andalusia|andalusia4438
+洛桑|Lausanne|lausanne725
+爱丁堡|Edinburgh|edinburgh389
+因特拉肯|Interlaken|interlaken727
+哥本哈根|Copenhagen|copenhagen449
+布达佩斯|Budapest|budapest1109
+卡帕多奇亚|Cappadocia|cappadocia1133
+科隆|Cologne|cologne388
+萨尔茨堡|Salzburg|salzburg440
+巴登-符腾堡州|Baden-Wurttemberg|badenwurttemberg21703
+法兰西岛|Ile-de-France|iledefrance20744
+布鲁塞尔|Brussels|brussels298
+那不勒斯|Napoli|napoli747
+拉齐奥|Lazio|lazio21208
+赫尔辛基|Helsinki|helsinki452
+曼彻斯特|Manchester|manchester588
+威尼托|Veneto|veneto21207
+牛津|Oxford|oxford407
+英国湖区|Lake District National Park|lakedistrictnationalpark120460
+伦巴第|Lombardy|lombardy21188
+基克拉泽斯群岛|Cyclades|cyclades20507
+马德里自治区|Community of Madrid|communityofmadrid4451
+斯德哥尔摩|Stockholm|stockholm451
+日内瓦|Geneva|geneva302
+黑森州|Hessen|hessen123711
+鹿特丹|Rotterdam|rotterdam393
+米科诺斯岛|Mykonos|mykonos29044
+奥斯陆|Oslo|oslo450
+西西里岛|Sicily|sicily21192
+塞维利亚|Sevilla|sevilla380
+苏格兰|Scotland|scotland20843
+海牙|The Hague|thehague385
+蔚蓝海岸|French Riviera - Cote d'Azur|frenchrivieracotedazur12998
+里昂|Lyon|lyon391
+纽伦堡|Nuremberg|nuremberg1489
+伯罗奔尼撒|Peloponnese|peloponnese383
+瓦伦西亚|Valencia|valencia1080
+布鲁日|Bruges|bruges1474
+罗滕堡|Rothenburg ob der Tauber|rothenburgobdertauber1707
+伯尔尼|Bern|bern443
+北莱茵-威斯特法伦|North Rhine-Westphalia|northrhinewestphalia21707
+梵蒂冈|Vatican|vatican784
+沃州|Vaud|vaud22621
+维尔茨堡|Wurzburg|wurzburg2108
+隆河口省|Bouches du Rhone|bouchesdurhone392
+根特|Ghent|ghent1473
+格拉纳达|Granada|granada379
+维罗纳|Verona|verona720
+海德堡|Heidelberg|heidelberg790
+卡斯蒂利亚-拉曼恰|Castilla-La Mancha|castillalamancha4445
+福森|Fussen|fussen1040
+雷克雅未克|Reykjavik|reykjavik1044
+阿维尼翁|Avignon|avignon1100
+瓦莱州|Valais|valais45095
+比萨|Pisa|pisa1761
+斯图加特|Stuttgart|stuttgart1039
+安塔利亚|Antalya|antalya549
+马赛|Marseille|marseille120370
+卡斯蒂利亚-莱昂|Castile and Leon|castileandleon4442
+格拉斯哥|Glasgow|glasgow713
+安特卫普|Antwerp|antwerp1029
+采尔马特|Zermatt|zermatt726
+汉堡|Hamburg|hamburg573
+托莱多|Toledo|toledo1958
+约克郡|Yorkshire|yorkshire13663
+波尔图|Porto|porto1708
+莱茵兰-普法尔茨|Rhineland-Palatinate|rhinelandpalatinate21710
+伊兹密尔|Izmir|izmir548
+戛纳|Cannes|cannes715
+浪漫之路|Romantic Road|romanticroad25470
+苏格兰高地|Scottish Highlands|scottishhighlands13588
+萨默塞特|Somerset|somerset13636
+巴斯|Bath|bath718
+开罗|Cairo|cairo326
+卢克索|Luxor|luxor410
+开普敦|Cape Town|capetown327
+约翰内斯堡|Johannesburg|johannesburg328
+亚历山大|Alexandria|alexandria777
+内罗毕|Nairobi|nairobi795
+红海和西奈半岛|Red Sea and Sinai|redseaandsinai779
+阿斯旺|Aswan|aswan411
+马埃岛|Mahe Island|maheisland1805
+比勒陀利亚|Pretoria|pretoria259
+马拉喀什|Marrakech|marrakech1748
+留尼汪|Reunion|reunion100188
+马赛马拉国家公园|Maasai Mara|maasaimara797
+东开普|Eastern Cape|easterncape1440
+太阳城|Sun City|suncity814
+德班|Durban|durban1810
+安波塞利|Amboseli|amboseli1085
+突尼斯市|Tunis|tunis940
+拉巴特|Rabat|rabat1735
+非斯|Fes|fes1730
+沙姆沙伊赫|Sharm El Sheikh|sharmelsheikh2039
+卡萨布兰卡|Casablanca|casablanca1693
+桑给巴尔岛|Zanzibar Archipelago|zanzibararchipelago19894
+普拉兰岛|Praslin Island|praslinisland22225
+纳库鲁|Nakuru|nakuru1073
+伊丽莎白港|Port Elizabeth|portelizabeth1485
+赫尔格达|Hurghada|hurghada1098
+亚的斯亚贝巴|Addis Ababa|addisababa936
+达累斯萨拉姆|Dar es Salaam|daressalaam939
+苏斯|Sousse|sousse2097
+阿尔及尔|Algiers|algiers20448
+丹吉尔|Tangier|tangier1738
+蒙巴萨|Mombasa|mombasa796
+姆普马兰加|Mpumalanga|mpumalanga10489
+拉迪格岛|La Digue Island|ladigueisland22226
+阿伯德尔国家森林公园|Aberdare|aberdare1074
+斯坦林布什|Stellenbosch|stellenbosch30450
+奈斯纳|Knysna|knysna2074
+自由邦|Free State|freestate25252
+凯鲁万|Kairouan|kairouan21892
+托泽尔|Tozeur Province|tozeurprovince21902
+维多利亚|Victoria|victoria1445140
+赫曼努斯|Hermanus|hermanus17324
+吉萨省|Giza|giza19971
+达哈卜|Dahab|dahab17361
+阿克拉|Accra|accra22026
+温得和克|Windhoek|windhoek19988
+维多利亚瀑布|Victoria Falls|victoriafalls20092
+坎帕拉|Kampala|kampala21946
+奥茨胡恩|Oudtshoorn|oudtshoorn17313
+塔那那利佛|Antananarivo|antananarivo4540
+基加利|Kigali|kigali22081
+阿鲁沙|Arusha|arusha19895
+布隆方丹|Bloemfontein|bloemfontein30267
+阿加迪尔|Agadir|agadir1728
+马特马他|Matmata|matmata21877
+阿布辛贝勒|Abu Simbel|abusimbel19950
+梅克内斯|Meknes|meknes21761
+利文斯顿|Livingstone|livingstone20042
+奈瓦沙|Naivasha|naivasha1457
+彼得马里茨堡|Pietermaritzburg|pietermaritzburg30198
+卢萨卡|Lusaka|lusaka1312
+帕尔|Paarl|paarl30386
+杜兹|Douz|douz21891
+舍夫沙万|Chefchaouen|chefchaouen21851
+弗朗斯胡克|Franschhoek|franschhoek30444
+克鲁格国家公园|Kruger National|krugernational1355
+瓦尔扎扎特|Ouarzazate|ouarzazate1734
+莫希|Moshi|moshi19909
+达喀尔|Dakar|dakar22198
+乞力马扎罗山国家公园|Kilimanjaro National Park|kilimanjaronationalpark19931
+塞伦盖提国家公园|Serengeti National Park|serengetinationalpark19910
+布拉瓦约|Bulawayo|bulawayo1252
+圣勒|Saint-Leu|saintleu22055
+哈马迈特|Hammamet|hammamet2070
+肯尼亚山国家公园|Mount Kenya National Park|mountkenyanationalpark1086
+东伦敦|East London|eastlondon25178
+花园大道国家公园|Tsitsikamma National Park|tsitsikammanationalpark25168
+杰尔巴岛|Djerba|djerba2069
+塞得港|Port Said|portsaid19953
+西蒙镇|Simon's Town|simonstown30438
+的黎波里|Tripoli|tripoli22250
+海岸角|Cape Coast|capecoast22035
+圣路易|Saint-Louis|saintlouis1446611
+甘斯拜|Gansbaai|gansbaai17331
+马普托|Maputo|maputo21943
+哈拉雷|Harare|harare1255
+扎古拉|Zagora|zagora21866
+索维拉|Essaouira|essaouira21788
+罗安达|Luanda|luanda21509
+金伯利|Kimberley|kimberley30481
+拉各斯|Lagos|lagos30527
+拉姆岛|Lamu|lamu1678
+科托努|Cotonou|cotonou22074
+蒙罗维亚|Monrovia|monrovia22220
+坦噶|Tanga|tanga19918
+瓦塔穆|Watamu|watamu22175
+斯瓦科普蒙德|Swakopmund|swakopmund22002
+萨乌|Sal|sal22245
+穆龙达瓦|Morondava|morondava4534
+纽约|New York|newyork248
+洛杉矶|Los Angeles|losangeles250
+拉斯维加斯|Las Vegas|lasvegas252
+旧金山|San Francisco|sanfrancisco249
+温哥华|Vancouver|vancouver354
+华盛顿|Washington D.C.|washingtondc257
+波士顿|Boston|boston442
+多伦多|Toronto|toronto355
+欧胡岛|Oahu|oahu120071
+西雅图|Seattle|seattle253
+檀香山|Honolulu|honolulu2060
+芝加哥|Chicago|chicago254
+大岛|Big Island|bigisland1928
+茂宜岛|Maui|maui2061
+迈阿密|Miami|miami1920
+奥兰多|Orlando|orlando1827
+不列颠哥伦比亚|British Columbia|britishcolumbia21567
+可爱岛|Kauai|kauai1918
+安大略省|Ontario|ontario21574
+圣地亚哥|San Diego|sandiego1954
+华盛顿州|Washington State|washingtonstate24125
+盐湖城|Salt Lake City|saltlakecity1432
+摩洛凯岛|Molokai|molokai1921
+大峡谷国家公园|Grand Canyon National Park|grandcanyonnationalpark1917
+拉奈岛|Lanai|lanai1919
+墨西哥城|Mexico City|mexicocity352
+蒙特利尔|Montreal|montreal661
+落基山脉地区|Canadian Rockies|canadianrockies30735
+费城|Philadelphia|philadelphia1825
+班夫国家公园|Banff National Park|banffnationalpark2045
+魁北克省|Quebec|quebec1561
+卡尔加里|Calgary|calgary1430
+温哥华岛|Vancouver Island|vancouverisland30894
+科罗拉多州|Colorado|colorado1421
+佩奇|Page|page33407
+魁北克市|Quebec City|quebeccity1405
+维多利亚|Victoria|victoria357
+凤凰城|Phoenix|phoenix1540
+尤卡坦半岛|Yucatan Peninsula|yucatanpeninsula21621
+达拉斯|Dallas|dallas1048
+亚特兰大|Atlanta|atlanta944
+波特兰|Portland|portland1923
+优胜美地国家公园|Yosemite National Park|yosemitenationalpark35159
+佛罗里达礁岛群|Florida Keys|floridakeys38070
+蒙特雷郡|Monterey County|montereycounty1922
+贾斯珀国家公园|Jasper National Park|jaspernationalpark17403
+巴哈马|Bahamas|bahamas21598
+休斯顿|Houston|houston943
+坎昆|Cancun|cancun1412
+基韦斯特|Key West|keywest1826
+波多黎各|Puerto Rico|puertorico21617
+尼亚加拉地区|Niagara Region|niagararegion2044
+渥太华|Ottawa|ottawa356
+新奥尔良|New Orleans|neworleans1434
+新斯科舍省|Nova Scotia|novascotia21568
+哈瓦那|Havana|havana353
+博尔德城|Boulder City|bouldercity39679
+阿拉米达|Alameda|alameda1444363
+贾斯珀|Jasper|jasper1557
+丹佛|Denver|denver1553
+圣克拉拉郡|County of Santa Clara|countyofsantaclara34579
+底特律|Detroit|detroit36539
+圣安东尼奥|San Antonio|sanantonio1822
+巴尔的摩|Baltimore|baltimore33937
+奥斯汀|Austin|austin1829
+蒙特雷|Monterey|monterey18193
+萨克拉门托县|Sacramento County|sacramentocounty1562
+图森|Tucson|tucson1823
+圣路易斯|Saint Louis|saintlouis24218
+孟菲斯|Memphis|memphis1819
+金斯顿|Kingston|kingston31488
+萨斯喀彻温|Saskatchewan|saskatchewan21572
+马尼托巴省|Manitoba|manitoba21570
+新不伦瑞克省|New Brunswick|newbrunswick21573
+匹兹堡|Pittsburgh|pittsburgh1600
+埃德蒙顿|Edmonton|edmonton1816
+纳什维尔|Nashville|nashville1636
+哥伦布|Columbus|columbus33321
+科德角|Cape Cod|capecod35176
+印地安那波里斯|Indianapolis|indianapolis1137
+哈利法克斯|Halifax Regional Municipality|halifaxregionalmunicipality31032
+尤卡坦州|Yucatan|yucatan32014
+里士满|Richmond|richmond1444620
+俄克拉何马城|Oklahoma City|oklahomacity1496
+坦帕|Tampa|tampa38275
+费尔班克斯|Fairbanks|fairbanks32652
+克里夫兰|Cleveland|cleveland1084
+明尼阿波利斯|Minneapolis|minneapolis1818
+爱德华王子岛|Prince Edward Island|princeedwardisland21566
+奥卡纳根谷|Okanagan Valley|okanaganvalley30888
+阿尔伯克基|Albuquerque|albuquerque1544
+温尼伯|Winnipeg|winnipeg31410
+堪萨斯城|Kansas City|kansascity37696
+辛辛那提|Cincinnati|cincinnati1828
+奥克兰|Oakland|oakland34798
+布雷顿角岛|Cape Breton Island|capebretonisland31031
+密尔沃基|Milwaukee|milwaukee43459
+杰克逊维尔|Jacksonville|jacksonville38273
+科罗拉多斯普林斯|Colorado Springs|coloradosprings36133
+圣何塞|San Jose|sanjose34515
+里约热内卢|Rio de Janeiro|riodejaneiro932
+布宜诺斯艾利斯|Buenos Aires|buenosaires931
+圣保罗|Sao Paulo|saopaulo933
+萨尔瓦多|Salvador|salvador1724
+累西腓|Recife|recife1812
+巴西利亚|Brasilia|brasilia1426
+贝洛奥里藏特|Belo Horizonte|belohorizonte13862
+阿雷格里港|Porto Alegre|portoalegre1723
+巴塔哥尼亚|Patagonia|patagonia20852
+纳塔尔|Natal|natal1720
+福塔莱萨|Fortaleza|fortaleza13900
+利马|Lima|lima934
+库里提巴|Curitiba|curitiba1713
+马塞约|Maceio|maceio1718
+库亚巴|Cuiaba|cuiaba13793
+波哥大|Bogota|bogota1702
+巴拿马城|Panama City|panamacity1711
+火地岛省|Province of Tierra del Fuego|provinceoftierradelfuego13712
+乌斯怀亚|Ushuaia|ushuaia1685
+基多|Quito|quito1856
+库斯科|Cuzco|cuzco1414
+卡塔赫纳|Cartagena|cartagena21268
+复活节岛|Easter Island|easterisland1418
+贝伦|Belem|belem13910
+马丘比丘|Machu Picchu|machupicchu1413
+阿雷基帕|Arequipa|arequipa1864
+阿拉卡茹|Aracaju|aracaju14137
+蒙得维的亚|Montevideo|montevideo1595
+加拉帕戈斯群岛|Galapagos Islands|galapagosislands20856
+圣卡塔琳娜州|Santa Catarina|santacatarina123853
+马德普拉塔|Mar del Plata|mardelplata1679
+麦德林|Medellin|medellin21293
+瓦尔帕莱索|Valparaiso|valparaiso22949
+科尔多瓦|Cordoba|cordoba2095
+拉巴斯|La Paz|lapaz1619
+昆卡|Cuenca|cuenca20913
+圣地亚哥首都大区|Metropolitana|metropolitana1611
+马瑙斯|Manaus|manaus13750
+萨尔塔|Salta|salta1683
+拉塞雷纳|La Serena|laserena22955
+卡利|Cali|cali140756
+湖泊地区|Lake District|lakedistrict22892
+乌尤尼|Uyuni|uyuni22805
+蓬塔阿雷拉斯|Punta arenas|puntaarenas1589
+门多萨|Mendoza|mendoza1680
+瓜亚基尔|Guayaquil|guayaquil1504
+伊瓜苏市|Foz do Iguacu|fozdoiguacu14022
+圣佩德罗-德阿塔卡马|San Pedro de Atacama|sanpedrodeatacama22909
+特鲁希略|Trujillo|trujillo1501
+普诺|Puno|puno1866
+比尼亚德尔马|Vina del Mar|vinadelmar22961
+亚松森|Asuncion|asuncion1697
+卡内拉|Canela|canela13838
+伊基托斯|Iquitos|iquitos20966
+圣玛尔塔|Santa Marta|santamarta23004
+纳塔莱斯港|Puerto Natales|puertonatales14161
+帕拉马里博|Paramaribo|paramaribo22817
+伊基克|Iquique|iquique22935
+博科特|Boquete|boquete20225
+瓦拉斯|Huaraz|huaraz20942
+埃尔卡拉法特|El Calafate|elcalafate1625
+圣卡洛斯-德巴里洛切|San Carlos de Bariloche|sancarlosdebariloche139774
+波多韦柳|Porto Velho|portovelho13894
+普孔|Pucon|pucon14175
+伊卡|Ica|ica20958
+拉古娜|Laguna|laguna13985
+帕斯托|Pasto|pasto23023
+马拉开波|Maracaibo|maracaibo14196
+博尼图|Bonito|bonito13820
+阿里卡和帕里纳科塔|Arica y Parinacota|aricayparinacota22906
+博卡斯德尔托罗|Bocas del Toro|bocasdeltoro20209
+马尼萨莱斯|Manizales|manizales21289
+伊瓜苏港|Puerto Iguazu|puertoiguazu56306
+卡布弗里乌|Cabo Frio|cabofrio13770
+圣克鲁斯省|Santa Cruz|santacruz143865
+巴兰基亚|Barranquilla|barranquilla23017
+马德林港|Puerto Madryn|puertomadryn56329
+塞古鲁港|Porto Seguro|portoseguro13902
+巴尼奥斯|Banos|banos20885
+纳斯卡|Nazca|nazca139792
+坦迪尔|Tandil|tandil56226
+罗萨里奥|Rosario|rosario56325
+里奥班巴|Riobamba|riobamba20868
+卡奈玛国家公园|Canaima National Park|canaimanationalpark14208
+特兰科苏|Trancoso|trancoso13944
+欧鲁普雷图|Ouro Preto|ouropreto13790
+维拉斯港|Puerto Varas|puertovaras1602
+奇克拉约|Chiclayo|chiclayo20965
+皮乌拉|Piura|piura20979
+格兰德|Ilha Grande|ilhagrande13759
+布基亚斯|Buzios|buzios1712
+加拉加斯|Caracas|caracas14213
+马塞约|Maceio|maceio14004
+厄尔查尔坦|El Chalten|elchalten56354
+佩雷拉|Pereira|pereira21254
+乌巴图巴|Ubatuba|ubatuba14116
+卡法亚特|Cafayate|cafayate56183
+塔克纳|Tacna|tacna20952
+瓦尔迪维亚|Valdivia|valdivia14173
+马尔多纳多港|Puerto Maldonado|puertomaldonado20991
+悉尼|Sydney|sydney236
+塞班岛|Saipan|saipan569
+墨尔本|Melbourne|melbourne312
+皇后镇|Queenstown|queenstown684
+奥克兰|Auckland|auckland320
+黄金海岸|Gold coast|goldcoast456
+布里斯班|Brisbane|brisbane323
+基督城|Christchurch|christchurch695
+关岛|Guam|guam1422
+凯恩斯|cairns|cairns453
+大溪地岛|Tahiti|tahiti1354
+罗托鲁瓦|Rorotua|rorotua682
+坎特伯雷|Canterbury|canterbury17120
+堪培拉|Canberra|canberra321
+但尼丁|Dunedin|dunedin1192
+西澳大利亚州|Western Australia|westernaustralia25030
+格雷茅斯|Greymouth|greymouth17181
+蓝山|Blue Mountains|bluemountains15844
+阿德莱德|Adelaide|adelaide626
+卧龙岗市|Wollongong|wollongong16223
+拜伦湾|Byron Bay|byronbay16140
+塔斯马尼亚州|Tasmania|tasmania25024
+珀斯|Perth|perth120044
+维提岛|Viti Levu|vitilevu25073
+南澳大利亚州|South Australia|southaustralia25029
+南迪|Nadi|nadi1339
+惠灵顿|Wellington|wellington755
+史蒂芬斯港|Port Stephens|portstephens16238
+霍巴特|Hobart|hobart629
+北领地|Northern Territory|northernterritory627
+南岛西海岸|SouthWestland|southwestland1370
+圣灵群岛|Whitsunday Islands|whitsundayislands57781
+特卡波湖|Lake Tekapo|laketekapo57959
+阳光海岸|SunShine Coast|sunshinecoast699
+天宁岛|Tinian|tinian570
+库克山国家公园|Mount Cook National Park|mountcooknationalpark123179
+汉密尔顿岛|Hamilton Island|hamiltonisland1344
+凯库拉|Kaikoura|kaikoura57947
+陶波|Taupo|taupo1863
+苏瓦|Suva|suva1338
+汉密尔顿|Hamilton|hamilton17093
+杰拉尔顿|Geraldton|geraldton16916
+特威泽尔|Twizel|twizel57949
+弗里曼特尔|Fremantle|fremantle813
+尼尔森|Nelson|nelson1176
+瓦纳卡|Wanaka|wanaka17172
+爱丽斯泉|Alice Springs|alicesprings1692
+福克斯冰河|Foxglacier|foxglacier1210
+奥马鲁|Oamaru|oamaru17155
+班伯里|Bunbury|bunbury16931
+袋鼠岛|Kangaroo Island|kangarooisland1599
+洛恩|Lorne|lorne136711
+朗塞斯顿|launceston|launceston1929
+因佛卡吉尔|Invercargill|invercargill17146
+布伦亨|Blenheim|blenheim57985
+吉朗|Geelong|geelong16545
+皮克顿|Picton|picton57983
+奥班尼|Albany|albany16867
+阿卡罗阿|Akaroa|akaroa57930
+阿波罗湾|Apollo Bay|apollobay16492
+科罗尔岛|Island of Koror|islandofkoror25085
+汤斯维尔|Townsville|townsville1656
+陶朗加|Tauranga|tauranga57884
+达尔文|Darwin|darwin325
+卡卡杜国家公园|Kakadu National Park|kakadunationalpark57669
+本迪戈|Bendigo|bendigo16560
+霍基蒂卡|Hokitika|hokitika17138
+芭萝莎|Barossa Valley|barossavalley16756
+艾利滩|Airlie Beach|airliebeach1706
+蒂阿瑙|Te Anau|teanau1862
+罗克汉普顿|Rockhampton|rockhampton16292
+波拉波拉岛|Bora Bora|borabora1760
+维拉港|Port Vila|portvila2073
+科罗曼德尔|The Coromandel|thecoromandel17044
+瓦南布尔|Warrnambool|warrnambool16667
+珊瑚海岸|Coral Coast|coralcoast1962
+布罗肯希尔|Broken Hill|brokenhill16092
+赫维湾|Hervey Bay|herveybay1696
+库努纳拉|Kununurra|kununurra16869
+弗雷泽岛|Fraser Island|fraserisland57794
+麦奎利港|Port Macquarie|portmacquarie1612
+科福斯港|Coffs Harbour|coffsharbour730
+德纳姆|Denham|denham17003
+道格拉斯港|Port Douglas|portdouglas628
+卡尔巴里|Kalbarri|kalbarri16972
+考拉|Cowra|cowra15853
+邦德堡|Bundaberg|bundaberg16401
+拉罗汤加岛|Rarotonga|rarotonga1568
+埃克斯茅斯|Exmouth|exmouth16904
+库兰达|Kuranda|kuranda16458
+莫尔兹比港|Port Moresby|portmoresby25097
+卡通巴|Katoomba|katoomba1601
+东格里罗国家公园|Tongariro National Park|tongarironationalpark17056
+曼哲拉|Mandurah|mandurah16901
+乌波卢岛|Upolu|upolu25034
+努沙|Noosa|noosa1701
+卡路达拉|Caloundra|caloundra1591
+弗朗兹约瑟夫|Franz Josef|franzjosef57980
+埃斯佩兰斯|Esperance|esperance16896
+库伯佩迪|Coober Pedy|cooberpedy16825
+南极|Antarctica|antarctica120487

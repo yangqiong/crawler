@@ -1,0 +1,27 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "## 携程旅游",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangqiong/crawler.git"
+  },
+  "keywords": [
+    "crawler",
+    "爬虫"
+  ],
+  "author": "yangqiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangqiong/crawler/issues"
+  },
+  "homepage": "https://github.com/yangqiong/crawler#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
