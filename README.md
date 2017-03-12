@@ -18,4 +18,4 @@
     * 获取豆瓣图书详情 https://book.douban.com/subject/25862578/ 
 
 ## flickr
-    * 根据搜索关键词获取flickr图片（需翻墙）
+    * 根据搜索关键词获取flickr图片（需翻墙）https://www.flickr.com/search/?text=%E5%93%88%E5%A3%AB%E5%A5%87
